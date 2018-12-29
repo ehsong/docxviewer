@@ -1,0 +1,10 @@
+README.md
+setup.py
+docxviewer/__init__.py
+docxviewer/doc_viewer.py
+docxviewer.egg-info/PKG-INFO
+docxviewer.egg-info/SOURCES.txt
+docxviewer.egg-info/dependency_links.txt
+docxviewer.egg-info/entry_points.txt
+docxviewer.egg-info/requires.txt
+docxviewer.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+docxviewer = docxviewer.doc_viewer:main
+
