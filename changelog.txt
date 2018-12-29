@@ -1,0 +1,4 @@
+December 29, 2018
+
+-fixed requirements.txt docx to python-docx
+-released 0.0.6
